@@ -1,0 +1,169 @@
+/*
+Mohon untuk tidak Menambah, Menghapus, atau Memodifikasi pesan ini.
+Copyright (c) 2017 ACS. 
+
+Created by NetBeans IDE 8.2 .
+User    :   ACS
+Date    :   29/09/2017
+Time    :   13:53:04
+*/
+/* 
+    Created on : Sep 29, 2017, 1:53:04 PM
+    Author     : ACS
+*/
+body{ 
+    font-family: monospace;
+}
+
+.navbar-orange{
+    background-color: rgb(251, 251, 251);
+    margin-bottom:0px;
+    border-radius: 0px;  
+    border: 0px;
+    border-bottom: 1px solid #FFB40F;
+} 
+
+.navbar-toggle{
+    border: 1px solid #FFB40F;
+} 
+
+a{
+    color: #F0A400;
+}  
+
+li.active{
+    color: #FFB40F;
+    border-bottom: 4px solid #ffd400;; 
+    background-color: rgba(51, 51, 51, 0.04);
+}
+ 
+section {
+    padding-top: 80px;
+    padding-bottom: 50px;
+    min-height: 665px;
+}
+
+.orange{
+    background-color: #FFB40F; 
+    color: #FFFFFF;
+}
+.white{
+    background-color: #FFFFFF;
+    color: #FFB40F
+}
+
+#home {
+    padding-top: 125px;
+} 
+
+img.img.img-circle.img-home.img-responsive {
+    max-height: 200px;
+    display: unset;
+    margin-top: 20px;    
+    box-shadow: 3px 3px 10px 0px rgba(0, 0, 0, 0.38);
+    border: 3px solid #FFFFFF
+}
+p.job {
+    font-size: 20px;
+    text-shadow: 3px 3px 20px rgba(0, 0, 0, 0.38);
+    margin-top: 20px; 
+}
+i{
+    color: #FFFFFF;
+    margin: 5px;
+    text-shadow: 3px 3px 20px rgba(0, 0, 0, 0.38);
+}
+
+h1{
+    font-size: 50px;    
+}
+.name { 
+    text-shadow: 3px 3px 20px rgba(0, 0, 0, 0.38);
+    -webkit-transform: rotate(-5deg);
+    -ms-transform: rotate(-5deg);
+    -moz-transform: rotate(-5deg);
+    -o-transform: rotate(-5deg);
+    
+}
+
+.title{ 
+    padding-left: 15px;
+    border-left: 2px solid #FFB40F;
+    margin-bottom: 30px;
+}
+.title.inverse{
+    border-left: 2px solid #FFFFFF;
+}
+
+p a:hover, p a:active{
+    text-decoration: none;  
+}
+
+
+.peta{
+    height: 300px;
+    background-color: rgba(51, 51, 51, 0.04);
+}
+
+.input-orange{
+    border: none;
+    border-radius: 0px;
+    border-bottom: 1px solid #FFB40F;
+} 
+.input-orange:hover{ 
+    border-bottom: 2px solid #ffd400;
+}
+
+.input-orange:focus{
+    border-bottom: 2px solid #FFB40F;
+    box-shadow: 3px 3px 10px 0px rgba(0, 0, 0, 0.38);
+}
+
+.btn-orange.btn-perspective{
+	-webkit-box-shadow: 0px 3px 0px #C6901F;
+	-moz-box-shadow: 0px 3px 0px #C6901F;
+	box-shadow: 0px 3px 0px #C6901F;
+}
+.btn-orange.btn-perspective:active{
+	-webkit-box-shadow: 0px 1px 0px #C6901F;
+	-moz-box-shadow: 0px 1px 0px #C6901F;
+	box-shadow: 0px 1px 0px #C6901F;
+}
+
+.btn-orange{
+    background-color: #FFB40F; 
+    color: #FFFFFF;
+    border-radius: 0px;
+}
+
+.btn-orange:hover, btn-orange:active{
+    background-color: #de9900;
+    color: #FFFFFF; 
+    border-radius: 0px;
+}
+
+hr{
+    border-bottom: 1px solid #FFB40F;
+    margin: 20px 0px 40px 0px;
+}
+
+.footer{
+    background-color: #FFB40F;
+    padding: 50px;
+    max-height: 150px;
+}
+.ending{
+    background-color: #f0a400;
+    padding: 20px;
+    color: #FFFFFF
+}
+
+i.fa:hover{
+    font-size: 4em; 
+    margin-top: -1em;
+}
+
+.myfont{
+    font-size: 15px;
+}
+ 
